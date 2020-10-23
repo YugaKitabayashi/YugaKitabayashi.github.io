@@ -337,7 +337,7 @@ String[] msg = buildHTML(root,chain);
 		</div>
     	<%}%>
 		<div>
-			<a class="home" href="home.jsp">ホームに戻る</a>
+			<a class="home" href="index.jsp">ホームに戻る</a>
 		</div>
 		<a href="http://www.goo.ne.jp/">
 			<img src="//u.xgoo.jp/img/sgoo.png" width="200" alt="supported by goo" title="supported by goo">
